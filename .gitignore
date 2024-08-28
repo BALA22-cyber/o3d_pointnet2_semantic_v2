@@ -1,0 +1,11 @@
+*.pyc
+*.o
+*.so
+.vscode
+.ipynb_checkpoints/
+dataset/semantic_*/
+log/
+logs/
+result/
+results/
+build/

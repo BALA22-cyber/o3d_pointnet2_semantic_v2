@@ -1,0 +1,241 @@
+**** EPOCH 000 ****
+2024-08-19 21:13:18.883988
+mean loss: 6.405594
+Overall accuracy : 0.282062
+Average IoU : 0.063667
+IoU of man-made terrain : 0.052813
+IoU of natural terrain : 0.135836
+IoU of high vegetation : 0.030746
+IoU of low vegetation : 0.006799
+IoU of buildings : 0.268322
+IoU of hard scape : 0.005717
+IoU of scanning artifact : 0.004223
+IoU of cars : 0.004882
+2024-08-19 21:13:48.394143
+---- EPOCH 000 EVALUATION ----
+mean loss: 0.000000
+Overall accuracy : 0.129901
+Average IoU : 0.050710
+IoU of man-made terrain : 0.069012
+IoU of natural terrain : 0.059374
+IoU of high vegetation : 0.100288
+IoU of low vegetation : 0.044454
+IoU of buildings : 0.097772
+IoU of hard scape : 0.019627
+IoU of scanning artifact : 0.006677
+IoU of cars : 0.008480
+Model saved in file: log_0.1/semantic/best_model_epoch_000.ckpt
+Model saved in file: log_0.1/semantic/model.ckpt
+**** EPOCH 001 ****
+2024-08-19 21:14:09.795702
+mean loss: 6.183480
+Overall accuracy : 0.282059
+Average IoU : 0.063440
+IoU of man-made terrain : 0.024826
+IoU of natural terrain : 0.160521
+IoU of high vegetation : 0.049334
+IoU of low vegetation : 0.004475
+IoU of buildings : 0.260594
+IoU of hard scape : 0.005001
+IoU of scanning artifact : 0.001164
+IoU of cars : 0.001610
+**** EPOCH 002 ****
+2024-08-19 21:14:36.568416
+mean loss: 6.081725
+Overall accuracy : 0.308644
+Average IoU : 0.061337
+IoU of man-made terrain : 0.025936
+IoU of natural terrain : 0.090115
+IoU of high vegetation : 0.050299
+IoU of low vegetation : 0.006945
+IoU of buildings : 0.309224
+IoU of hard scape : 0.005049
+IoU of scanning artifact : 0.001537
+IoU of cars : 0.001592
+**** EPOCH 003 ****
+2024-08-19 21:15:02.719290
+mean loss: 6.023658
+Overall accuracy : 0.314367
+Average IoU : 0.062459
+IoU of man-made terrain : 0.027706
+IoU of natural terrain : 0.088582
+IoU of high vegetation : 0.047243
+IoU of low vegetation : 0.006355
+IoU of buildings : 0.317362
+IoU of hard scape : 0.008330
+IoU of scanning artifact : 0.002188
+IoU of cars : 0.001906
+**** EPOCH 004 ****
+2024-08-19 21:15:28.454015
+mean loss: 5.887696
+Overall accuracy : 0.328735
+Average IoU : 0.064356
+IoU of man-made terrain : 0.028627
+IoU of natural terrain : 0.088926
+IoU of high vegetation : 0.044622
+IoU of low vegetation : 0.005547
+IoU of buildings : 0.333605
+IoU of hard scape : 0.008671
+IoU of scanning artifact : 0.003022
+IoU of cars : 0.001827
+**** EPOCH 005 ****
+2024-08-19 21:15:54.556531
+mean loss: 5.778684
+Overall accuracy : 0.329587
+Average IoU : 0.064512
+IoU of man-made terrain : 0.026784
+IoU of natural terrain : 0.089762
+IoU of high vegetation : 0.047136
+IoU of low vegetation : 0.006682
+IoU of buildings : 0.333250
+IoU of hard scape : 0.008014
+IoU of scanning artifact : 0.002773
+IoU of cars : 0.001697
+2024-08-19 21:16:20.558208
+---- EPOCH 005 EVALUATION ----
+mean loss: 0.000000
+Overall accuracy : 0.241152
+Average IoU : 0.057496
+IoU of man-made terrain : 0.042751
+IoU of natural terrain : 0.044451
+IoU of high vegetation : 0.055629
+IoU of low vegetation : 0.026545
+IoU of buildings : 0.255965
+IoU of hard scape : 0.018723
+IoU of scanning artifact : 0.008164
+IoU of cars : 0.007739
+Model saved in file: log_0.1/semantic/best_model_epoch_005.ckpt
+**** EPOCH 006 ****
+2024-08-19 21:16:41.577040
+mean loss: 5.890915
+Overall accuracy : 0.314799
+Average IoU : 0.062649
+IoU of man-made terrain : 0.026302
+IoU of natural terrain : 0.089461
+IoU of high vegetation : 0.047874
+IoU of low vegetation : 0.008304
+IoU of buildings : 0.317789
+IoU of hard scape : 0.006283
+IoU of scanning artifact : 0.003212
+IoU of cars : 0.001964
+**** EPOCH 007 ****
+2024-08-19 21:17:07.501867
+mean loss: 5.814395
+Overall accuracy : 0.323801
+Average IoU : 0.063768
+IoU of man-made terrain : 0.026508
+IoU of natural terrain : 0.086970
+IoU of high vegetation : 0.048547
+IoU of low vegetation : 0.008046
+IoU of buildings : 0.329042
+IoU of hard scape : 0.006337
+IoU of scanning artifact : 0.003256
+IoU of cars : 0.001438
+**** EPOCH 008 ****
+2024-08-19 21:17:33.420391
+mean loss: 5.891362
+Overall accuracy : 0.304194
+Average IoU : 0.061406
+IoU of man-made terrain : 0.026297
+IoU of natural terrain : 0.091218
+IoU of high vegetation : 0.048920
+IoU of low vegetation : 0.006720
+IoU of buildings : 0.304948
+IoU of hard scape : 0.008341
+IoU of scanning artifact : 0.003284
+IoU of cars : 0.001522
+**** EPOCH 009 ****
+2024-08-19 21:17:59.732445
+mean loss: 5.990565
+Overall accuracy : 0.300931
+Average IoU : 0.061158
+IoU of man-made terrain : 0.027787
+IoU of natural terrain : 0.090278
+IoU of high vegetation : 0.047344
+IoU of low vegetation : 0.006151
+IoU of buildings : 0.302893
+IoU of hard scape : 0.009867
+IoU of scanning artifact : 0.003372
+IoU of cars : 0.001571
+**** EPOCH 010 ****
+2024-08-19 21:18:25.682913
+mean loss: 5.945478
+Overall accuracy : 0.311337
+Average IoU : 0.062514
+IoU of man-made terrain : 0.027857
+IoU of natural terrain : 0.090337
+IoU of high vegetation : 0.047361
+IoU of low vegetation : 0.006818
+IoU of buildings : 0.314422
+IoU of hard scape : 0.009190
+IoU of scanning artifact : 0.002920
+IoU of cars : 0.001208
+2024-08-19 21:18:51.699960
+---- EPOCH 010 EVALUATION ----
+mean loss: 0.000000
+Overall accuracy : 0.279437
+Average IoU : 0.043344
+IoU of man-made terrain : 0.012803
+IoU of natural terrain : 0.019772
+IoU of high vegetation : 0.024062
+IoU of low vegetation : 0.003256
+IoU of buildings : 0.282933
+IoU of hard scape : 0.002070
+IoU of scanning artifact : 0.001056
+IoU of cars : 0.000801
+Model saved in file: log_0.1/semantic/best_model_epoch_010.ckpt
+Model saved in file: log_0.1/semantic/model.ckpt
+**** EPOCH 011 ****
+2024-08-19 21:19:12.914486
+mean loss: 5.985732
+Overall accuracy : 0.302476
+Average IoU : 0.061390
+IoU of man-made terrain : 0.028132
+IoU of natural terrain : 0.091536
+IoU of high vegetation : 0.047095
+IoU of low vegetation : 0.006366
+IoU of buildings : 0.303817
+IoU of hard scape : 0.009590
+IoU of scanning artifact : 0.003482
+IoU of cars : 0.001103
+**** EPOCH 012 ****
+2024-08-19 21:19:38.668491
+mean loss: 5.989329
+Overall accuracy : 0.323480
+Average IoU : 0.064265
+IoU of man-made terrain : 0.028518
+IoU of natural terrain : 0.089421
+IoU of high vegetation : 0.046050
+IoU of low vegetation : 0.006329
+IoU of buildings : 0.329066
+IoU of hard scape : 0.009894
+IoU of scanning artifact : 0.003356
+IoU of cars : 0.001487
+**** EPOCH 013 ****
+2024-08-19 21:20:04.413647
+mean loss: 6.045044
+Overall accuracy : 0.302048
+Average IoU : 0.061383
+IoU of man-made terrain : 0.028767
+IoU of natural terrain : 0.090322
+IoU of high vegetation : 0.047887
+IoU of low vegetation : 0.006224
+IoU of buildings : 0.303826
+IoU of hard scape : 0.009167
+IoU of scanning artifact : 0.003112
+IoU of cars : 0.001755
+**** EPOCH 014 ****
+2024-08-19 21:20:30.256058
+mean loss: 6.049502
+Overall accuracy : 0.309022
+Average IoU : 0.062512
+IoU of man-made terrain : 0.028193
+IoU of natural terrain : 0.093011
+IoU of high vegetation : 0.047752
+IoU of low vegetation : 0.006266
+IoU of buildings : 0.310656
+IoU of hard scape : 0.009572
+IoU of scanning artifact : 0.003375
+IoU of cars : 0.001273
+**** EPOCH 015 ****
+2024-08-19 21:20:56.200969

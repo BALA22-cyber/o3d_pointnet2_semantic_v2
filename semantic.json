@@ -1,0 +1,38 @@
+{
+    "gpu": "0",
+    "logdir": "log_0.1_torch/semantic",
+    "data_path": "dataset/no_label_0.1/",
+
+    "max_epoch": 100,
+    "num_point": 8192,
+    "batch_size": 32,
+    "use_color": 1,
+
+    "optimizer": "adam",
+    "momentum": 0.9999,
+    "learning_rate": 0.0001,
+    "decay_step": 2000,
+    "learning_rate_decay_rate": 0.7,
+
+    "box_size_x": 10,
+    "box_size_y": 10,
+    "bn_init_decay": 0.5,
+    "bn_decay_decay_rate": 0.5,
+    "bn_decay_clip": 0.99,
+
+    "l1_radius": 0.1,
+    "l1_nsample": 64,
+    "l1_npoint": 1024,
+
+    "l2_radius": 0.2,
+    "l2_nsample": 64,
+    "l2_npoint": 256,
+
+    "l3_radius": 0.4,
+    "l3_nsample": 64,
+    "l3_npoint": 64,
+
+    "l4_radius": 0.8,
+    "l4_nsample": 64,
+    "l4_npoint": 16
+}

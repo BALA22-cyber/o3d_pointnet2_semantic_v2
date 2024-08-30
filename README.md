@@ -94,7 +94,6 @@ cd build
 cmake ..
 make
 ```
-
 After compilation the following `.so` files shall be in the `build` directory.
 
 ```shell
@@ -104,14 +103,12 @@ Open3D-PointNet2-Semantic3D/tf_ops/build
 ├── libtf_sampling.so
 ├── ...
 ```
-
 Verify that that the TF kernels are working by running
 
 ```shell
 cd .. # Now we're at Open3D-PointNet2-Semantic3D/tf_ops
 python test_tf_ops.py
 ```
-
 ### 5. Train
 
 Run
@@ -148,7 +145,6 @@ Open3D-PointNet2-Semantic3D/result/sparse
 ├── sg27_station5_intensity_rgb.pcd
 ├── ...
 ```
-
 ### 7. Interpolate
 
 The last step is to interpolate the sparse prediction to the full point cloud.
@@ -166,16 +162,6 @@ Open3D-PointNet2-Semantic3D/result/dense
 ├── sg27_station5_intensity_rgb.labels
 ├── ...
 ```
-
-### 8. Submission
-
-Finally, if you're submitting to Semantic3D benchmark, we've included a handy
-tools to rename the submission file names.
-
-```shell
-python renamer.py
-```
-
 ### Summary of directories
 
 - `dataset/semantic_raw`: Raw Semantic3D data, .txt and .labels files. Also contains the
